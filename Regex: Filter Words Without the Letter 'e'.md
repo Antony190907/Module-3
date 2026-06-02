@@ -20,7 +20,8 @@ import re
 items=['goal', 'new', 'user', 'sit', 'eat', 'dinner']
 for i in items: 
     if not re.search(r"e",i):
-        print(i) 
+        print(i)
+```
 ## Output
 <img width="437" height="167" alt="image" src="https://github.com/user-attachments/assets/57598bd0-2a5a-4321-a7b1-fa46c3d0ec55" />
 
